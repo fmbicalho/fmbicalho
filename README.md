@@ -1,11 +1,11 @@
 # Fernando Bicalho - fmbicalho
 
-Hello there! 👋 My name is Fernando Maria Bicalho and I'm a studying Computer Science at University of Minho 💻. 
+Hello there! 👋
+My name is Fernando Maria Bicalho and I'm a studying Computer Science at University of Minho 💻. 
 
 ## About me
 
-I was born in Santos(São Paulo/Brazil)and raised in different cities across the state. Right now im living in Braga(Portigal) 🇵🇹 since 2018 and studying Computer Science at University of Minho. I have double Citizenships (Brazilian and Portuguese). On my free time I like to play Video games 🎮, listen to music 🎵 and watch movies/series 🍿. My favorite foods is Japanese 🍣 and homemade burgers 🍔.
-
+I was born in Santos(São Paulo/Brazil) and raised in different cities across the state. Right now im living in Braga(Portigal) 🇵🇹 since 2018 and I'm studying Computer Science at University of Minho. I'm Brazilian and Portuguese. On my free time I like to play Video games 🎮, listen to music 🎵 and watch movies/series 🍿. My favorite foods is Japanese 🍣 and homemade burgers 🍔.
 
 
 ## My college projects and solved exercises 🎓
@@ -34,15 +34,9 @@ I was born in Santos(São Paulo/Brazil)and raised in different cities across the
 I hope I can add as many items to this list as possible!
 
 
-![fmbicalho GitHub stats](https://github-readme-stats.vercel.app/api?username=fmbicalho_private=true&show_icons=true)
+- 🔭 I’m currently working on my First Game
+- 🌱 I’m currently learning C#
+- 👯 I’m looking to collaborate on Video Games projects
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![fmbicalho github stats](https://github-readme-stats.vercel.app/api?username=fmbicalho)](https://github.com/anuraghazra/github-readme-stats)
