@@ -1,6 +1,7 @@
 # Fernando Bicalho - fmbicalho
 
 Hello there! 👋
+
 My name is Fernando Maria Bicalho and I'm studying Computer Science at University of Minho 💻. 
 
 ## About me
@@ -39,4 +40,4 @@ I hope I can add as many items to this list as possible!
 - 👯 I’m looking to collaborate on Video Games projects
 
 
-[![fmbicalho github stats](https://github-readme-stats.vercel.app/api?username=fmbicalho)]//(https://github.com/anuraghazra/github-readme-stats)
+[![fmbicalho github stats](https://github-readme-stats.vercel.app/api?username=fmbicalho)]
