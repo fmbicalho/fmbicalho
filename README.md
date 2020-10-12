@@ -40,4 +40,4 @@ I hope I can add as many items to this list as possible!
 - 👯 I’m looking to collaborate on Video Games projects
 
 
-[![fmbicalho github stats](https://github-readme-stats.vercel.app/api?username=fmbicalho)]
+![fmbicalho github stats](https://github-readme-stats.vercel.app/api?username=fmbicalho)
