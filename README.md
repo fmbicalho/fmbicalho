@@ -25,18 +25,27 @@ I was born in Santos(São Paulo/Brazil) and raised in different cities across th
 
 - **Algorítmos e Complexidade** (Algorithms and Complexity) - C - [Exercises](https://github.com/fmbicalho/ALGORITMOS-E-COPLEXIDADE)
 
+### 3rd year - 1st semester
+
+- **Laboratório de Algoritmia II** (Algorithm Laboratory II) - Python - [Torneios](Link em construção)
+                                                                        [Treinos](Link em construção)
+
+- **Programaç\ao Orientada aos Objetos** (Object Oriented Programming) - Java - [Fichas](Link em construção)
+                                                                                [Projeto](Link em construção)
 
 ## My programming skills 💻
 
 - Haskell
 - C
-- C# (just started learning)
+- C# (Learning)
+- Python (Learning)
+- Java (Learning)
 
 I hope I can add as many items to this list as possible!
 
 
 - 🔭 I’m currently working on my First Game
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C#, Python and Java
 - 👯 I’m looking to collaborate on Video Games projects
 
 
