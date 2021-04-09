@@ -25,7 +25,7 @@ I was born in Santos(São Paulo/Brazil) and raised in different cities across th
 
 - **Algorítmos e Complexidade** (Algorithms and Complexity) - C - [Exercises](https://github.com/fmbicalho/ALGORITMOS-E-COPLEXIDADE)
 
-### 3rd year - 1st semester
+### 2nd year - 2nd semester
 
 - **Laboratório de Algoritmia II** (Algorithm Laboratory II) - Python - [Torneios](Link em construção)
                                                                         [Treinos](Link em construção)
