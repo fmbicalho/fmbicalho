@@ -17,6 +17,7 @@ I was born in Santos(São Paulo/Brazil) and raised in different cities across th
 
 ### 1st year - 2nd semester
 
+- **Tópicos de Matemática** (Math Topics?) - MATH - [Resumes](https://github.com/fmbicalho/TOPICOS-DE-MATEMATICA)
 - **Programação Imperativa** (Imperative Programming) - C - [Exercises](https://github.com/fmbicalho/PROGRAMACAO-IMPERATIVA)
 - **Laboratório de Algoritmia I** (Algorithm Laboratory I) - C - [Project](https://github.com/fmbicalho/LABORATORIO-ALGORITMIA)
 - **Sistemas de Computação** (Computer Systems) - Machine Language - [Documments](https://github.com/fmbicalho/SISTEMAS-COMPUTACAO)
@@ -27,11 +28,11 @@ I was born in Santos(São Paulo/Brazil) and raised in different cities across th
 
 ### 2nd year - 2nd semester
 
-- **Laboratório de Algoritmia II** (Algorithm Laboratory II) - Python - [Torneios](Link em construção)
-                                                                        [Treinos](Link em construção)
+- **Laboratório de Algoritmia II** (Algorithm Laboratory II) - Python - [Torneios](https://github.com/fmbicalho/LABORATORIO-ALGORITMIA-II)
+                                                                        [Treinos](https://github.com/fmbicalho/LABORATORIO-ALGORITMIA-II)
 
-- **Programaç\ao Orientada aos Objetos** (Object Oriented Programming) - Java - [Fichas](Link em construção)
-                                                                                [Projeto](Link em construção)
+- **Programaç\ao Orientada aos Objetos** (Object Oriented Programming) - Java - [Fichas](https://github.com/fmbicalho/PROGRAMACAO-ORIENTADA-OBJETO)
+                                                                                [Projeto](https://github.com/fmbicalho/PROGRAMACAO-ORIENTADA-OBJETO)
 
 ## My programming skills 💻
 
