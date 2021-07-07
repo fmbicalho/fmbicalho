@@ -53,20 +53,20 @@ I was born in Santos(São Paulo/Brazil) and raised in different cities across th
 
 ### 3rd Year - 1st Semester
 
-**Bases de Dados**
-**Computabilidade e Complexidade**
-**Lógica Computacional**
-**Probabilidades e Aplicações**
-**Processamento de Linguagens e Compiladores**
+- **Bases de Dados**
+- **Computabilidade e Complexidade**
+- **Lógica Computacional**
+- **Probabilidades e Aplicações**
+- **Processamento de Linguagens e Compiladores**
 
 ### 3rd Year - 2nd Semester
 
-**Computação Gráfica**
-**Interação e Concorrência**
-**Programação Concorrente**
-**Projeto**
-**Semântica das Linguagens de Programação**
-**Teoria de Números Computacional**
+- **Computação Gráfica**
+- **Interação e Concorrência**
+- **Programação Concorrente**
+- **Projeto**
+- **Semântica das Linguagens de Programação**
+- **Teoria de Números Computacional**
 
 ## My Programming Skills 💻
 
