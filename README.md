@@ -13,74 +13,19 @@ My name is Fernando Maria Bicalho and I'm studying Computer Science at Universit
 - Right now I live in Braga(Portugal) 🇵🇹 and I'm studying Computer Science at University of Minho.
 - I'm Brazilian and Portuguese.
 - During my free time I like to play Video games 🎮, listen to music 🎵 and watch movies/series 🍿 .
-- My favorite foods is Japanese 🍣  and homemade burgers 🍔 .
+- My favorite foods are Japanese 🍣 and homemade burgers 🍔 .
 
 Bits n' Beer CEO
 
 [![Youtube badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/BitsnBeer)
 
-# My college projects and solved exercises 🎓
+# My Projects
 
-## 1st Year - 1st Semester
-
-| Cadeira (Course) | Tipo (Type) | Fichas (Exercises) | Projetos (Projects) |
-| --- | :---: | :---: | :---: |
-| Tópicos de Matemática (Math Introduction) | Matemática (Math Course) | [Resumes](https://github.com/fmbicalho/TOPICOS-DE-MATEMATICA) | Fichas |
-| Cálculo (Calculus) | Matemática (Math Course) | [Resumes](https://github.com/fmbicalho/CALCULO) | Fichas |
-| Álgebra Linear (Linear Algebra) | Matemática (Math Course) | Resumes | Fichas |
-| Programação Funcional (Functional Programming) | HASKELL | [Exercises](https://github.com/fmbicalho/PROGRAMACAO-FUNCIONAL) | Testes |
-| Ótica Aplicada para Fotografia Digital (Photography Class) | OPÇÃO UMINHO (EXTRA) | | |
-
-
-## 1st Year - 2nd Semester
-
-| Cadeira (Course) | | |
-| --- | :---: | :---: |
-| Programação Imperativa (Imperative Programming) - C | [Exercises](https://github.com/fmbicalho/PROGRAMACAO-IMPERATIVA) | |
-| Laboratório de Algoritmia I (Algorithm Laboratory I) - C| [Project](https://github.com/fmbicalho/LABORATORIO-ALGORITMIA) | |
-| Sistemas de Computação (Computer Systems) - MACHINE LANGUAGE | [Resumes](https://github.com/fmbicalho/SISTEMAS-COMPUTACAO) | |
-| Análise (Analysis) - MATH | | |
-| Geometria (Geometry) - MAT | | |
-| Matemática Discreta (Discrete Math) - MAT | | |
-
-
-## 2nd Year - 1st Semester
-
-- **Algorítmos e Complexidade** (Algorithms and Complexity) - C - [Exercises](https://github.com/fmbicalho/ALGORITMOS-E-COPLEXIDADE)
-- **Sistemas de Comunicações e Redes** (Communications Systems and Networks) - NETWORKS
-- **Álgebra** (Algebra) - MATH
-- **Análise Numérica** (Numerical analysis) - MATH
-- **Lógica** (Logic) - MATH
-
-## 2nd Year - 2nd Semester
-
-- **Laboratório de Algoritmia II** (Algorithm Laboratory II) - Python - [Tournaments](https://github.com/fmbicalho/LABORATORIO-ALGORITMIA-II), 
-                                                                        [Trainings](https://github.com/fmbicalho/LABORATORIO-ALGORITMIA-II)
-- **Programaç\ao Orientada aos Objetos** (Object Oriented Programming) - Java - [Files](https://github.com/fmbicalho/PROGRAMACAO-ORIENTADA-OBJETO), 
-                                                                                [Project](https://github.com/fmbicalho/PROGRAMACAO-ORIENTADA-OBJETO)
-- **Álgebra Universal e Categorias** (Universal Algebra and Categories) - MATH - [Resumes]
-- **Autómatos e Linguagens Formais** (Automata and Formal Languages) - MATH - [Resumes]
-- **Cálculo de Programas I** (Programs Calculation I) - HASKELL - [Exercises], 
-                                                                  [Project]
-- **Sistemas Operativos** (Operating Systems) - C - [Exercises], 
-                                                    [Projeto]
-
-## 3rd Year - 1st Semester
-
-- **Bases de Dados**
-- **Computabilidade e Complexidade**
-- **Lógica Computacional**
-- **Probabilidades e Aplicações**
-- **Processamento de Linguagens e Compiladores**
-
-## 3rd Year - 2nd Semester
-
-- **Computação Gráfica**
-- **Interação e Concorrência**
-- **Programação Concorrente**
-- **Projeto**
-- **Semântica das Linguagens de Programação**
-- **Teoria de Números Computacional**
+| Project Title | Description | Link |
+|---------------|-------------|------|
+| Fighting Game | Single-Player Fighting game using Simple Graphics. | [Here](https://github.com/fmbicalho/GameJam) |
+| Rastros - Slimetrail | C based gamed created during Algorithm Laboratory I Course at University of Minho. | [Here](https://github.com/Alef-Keuffer/uminho.la1.rastos-c) |
+| Server X Clients Chat | It's a server-based Java program using IO Network, developed during the CodeforAll_ Bootcamp. | [Here](https://github.com/fmbicalho/Online_Chat_in_Java.git) |
 
 # My Programming Skills 💻
 
@@ -91,7 +36,7 @@ Bits n' Beer CEO
 - ![C# badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 - ![Python badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - ![Java badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-- ![Swift badge](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=whitee)
+- ![Swift badge](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
 I hope I can add as many items to this list as possible!
 
