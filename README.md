@@ -26,6 +26,7 @@ Bits n' Beer CEO
 | Fighting Game | Single-Player Fighting game using Simple Graphics. | [Here](https://github.com/fmbicalho/GameJam) |
 | Rastros - Slimetrail | C based gamed created during Algorithm Laboratory I Course at University of Minho. | [Here](https://github.com/Alef-Keuffer/uminho.la1.rastos-c) |
 | Server X Clients Chat | It's a server-based Java program using IO Network, developed during the CodeforAll_ Bootcamp. | [Here](https://github.com/fmbicalho/Online_Chat_in_Java.git) |
+| Single Page Application | With just JS, HTML and CSS , the app consumes a movie API (OMDB). Created during the CodeforAll_ Bootcamp. | [Here](https://github.com/fmbicalho/cinema-management) |
 
 # My Programming Skills 💻
 
