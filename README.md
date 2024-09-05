@@ -18,10 +18,8 @@ My name is Fernando Maria Bicalho and I'm studying Computer Science at Universit
 Bits n' Beer CEO
 
 [![Youtube badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/BitsnBeer)
-
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C066%20hrs%2054%20mins-blue)  
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1352-blue)  
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.1%20million%20lines%20of%20code-blue)
+ 
+[![Fernando Bicalho profile views](https://u8views.com/api/v1/github/profiles/22182187/views/day-week-month-total-count.svg)](https://u8views.com/github/fmbicalho)  
 
 # 💡 My Cool Projects
 
