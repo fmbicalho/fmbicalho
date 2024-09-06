@@ -30,7 +30,7 @@ Bits n' Beer CEO
 |<img src="https://cf.geekdo-images.com/tYxS-l2Z8FkehH7eIQFY9A__opengraph/img/jA27SaLhCBZqH0zmZq-fhh-9nBY=/fit-in/1200x630/filters:strip_icc()/pic332409.jpg" width="48">| Rastros - Slimetrail | C based gamed created during Algorithm Laboratory I Course at University of Minho. | [Here](https://github.com/Alef-Keuffer/uminho.la1.rastos-c) |
 |<img src="https://github.com/user-attachments/assets/bc4f9c8a-5530-4e18-a0d3-c0957676fb4a" width="48">| Server X Clients Chat | It's a server-based Java program using IO Network, developed during the CodeforAll_ Bootcamp. | [Here](https://github.com/fmbicalho/Online_Chat_in_Java.git) |
 |<img src="https://media.licdn.com/dms/image/v2/D4D2DAQFdZooqqYEt2w/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1723804917342?e=1726138800&v=beta&t=SvX-D3KXZdoj-J9IfprRYakMjJP00HQwg1aqMc6ID0g" width="48">| Single Page Application | With just JS, HTML and CSS. Created during the CodeforAll_ Hackathon. | [Here](https://github.com/fmbicalho/race4life) |
-|<img src="https://github.com/favicon.ico" width="48">| Wedding Organizer | A Web Application to organize Weddings. Created NodeJS, Express, Objection, MySQL, HTML and CSS. | [Here](https://github.com/fmbicalho/weddingOrganizerWithNodeJS) |
+|<img src="https://github.com/fmbicalho/weddingOrganizerWithNodeJS/blob/main/src/images/home.png" width="48">| Wedding Organizer | A Web Application to organize Weddings. Created NodeJS, Express, Objection, MySQL, HTML and CSS. | [Here](https://github.com/fmbicalho/weddingOrganizerWithNodeJS) |
 
 # 💻 My Programming Skills
 
