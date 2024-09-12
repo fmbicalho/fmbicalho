@@ -21,6 +21,13 @@ Bits n' Beer CEO
  
 [![Fernando Bicalho profile views](https://u8views.com/api/v1/github/profiles/22182187/views/day-week-month-total-count.svg)](https://u8views.com/github/fmbicalho)  
 
+# 💡 My Portfolio:  
+
+This portfolio is in the process of being deployed on **Vercel**.
+ [Here](https://portfolio-heey.vercel.app/)  
+
+<img src="https://github.com/fmbicalho/Portfolio/blob/main/src/assets/images/home.png" width="400">
+
 # 💡 My Cool Projects
 
 | Preview | Project Title | Description | Link |
