@@ -27,6 +27,10 @@ Bits n' Beer CEO
 
 | Preview | Project Title | Description | Link |
 |---------|---------------|-------------|------|
+|<img src="https://github.com/fmbicalho/Portfolio2.0/blob/main/public/images/barber-shop.png" width="48">| Barber Shop | This is a SPA created for a local barber shop. Created with TypeScript and React. | [Here](https://barbershop2024.netlify.app) |
+|<img src="https://github.com/fmbicalho/Portfolio2.0/blob/main/public/images/bingo.png" width="48">| Bingo Game | A bingo game created with Python + FastAPI and React. | [Here](https://github.com/fmbicalho/miniBingo/tree/main/anotherBingoGame) |
+|<img src="https://github.com/fmbicalho/Portfolio2.0/blob/main/public/images/carbuddy-app.png" width="48">| CarBuddy | In this project I decided to create a SPA to help anyone who is looking for their new car. Created with JS + NodeJS + ExpressJS + React. | [Here](https://github.com/fmbicalho/CarBuddy) |
+|<img src="https://github.com/fmbicalho/Portfolio2.0/blob/main/public/images/e-commerce.png" width="48">| Simple E-Commerce | This is a simple e-commerce. Created with Java + Spring Boot + React. | [Here](https://github.com/fmbicalho/Simple-E-Commerce) |
 |<img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/freefilesync_93716.png" width="48">| Folder Sync Tool | This Python program synchronizes files between a source folder and a replica folder. Created with Python. | [Here](https://github.com/fmbicalho/python_folder_sync) |
 |<img src="https://www.instacart.com/assets/beetstrap/brand/2022/carrotlogo-1286c257354036d178c09e815906198eb7f012b8cdc4f6f8ec86d3e64d799a5b.png" width="48">| React Grocery Helper | This React Web Application was created to help everybody going to grocery. Created with React and Javascript. | [Here](https://github.com/fmbicalho/React-Grocery-Helper) |
 |<img src="https://github.com/fmbicalho/LibraryManager/blob/main/src/main/resources/static/images/Home.png" width="48">| Library Manager | A Web Application to organize and manage a Library. Created with Java, SpringBoot, JavaScript, MySQL, HTML and CSS. | [Here](https://github.com/fmbicalho/LibraryManager/tree/main) |
