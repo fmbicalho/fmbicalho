@@ -1,66 +1,77 @@
-# Fernando Bicalho - fmbicalho - Hello there! 👋
+<h1 align="center">Hey, I'm Fernando 👋</h1>
+<h3 align="center">Full-Stack Developer @ DigitoSolutions · Laravel + React/TypeScript · I ship real products for real clients 🚀</h3>
 
-[![Linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-m-bicalho)
-[![Facebook badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/fernandombicalho)
-[![Instagram badge](https://img.shields.io/badge/-@fmbicalho-purple?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/fmbicalho/)
-[![Email badge](https://img.shields.io/badge/-fernando_bicalho-c71610?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:fernando_bicalho@ymail.com)
+<p align="center">
+  <a href="https://portfolio-fernandobicalho.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/fernando-m-bicalho"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:fernando_bicalho@ymail.com"><img src="https://img.shields.io/badge/Let's_talk-c71610?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-# 🧑🏻‍💻 About me
+---
 
-My name is Fernando Maria Bicalho and I'm studying Computer Science at University of Minho 💻 . 
+### ⚡ TL;DR
+- 💼 I'm a Full-Stack Developer at **DigitoSolutions**, where I build and maintain production websites for clients, from the database to the deploy.
+- 🛠️ My daily stack is **PHP/Laravel** on the back-end and **React + TypeScript** on the front-end.
+- 🌍 I'm Brazilian and Portuguese, based in **Braga 🇵🇹**.
+- 🎓 I attended Computer Science at **University of Minho** and graduated from the **Code for All_** bootcamp.
+- 🎯 **Open to:** [Junior/Mid] Full-Stack or Laravel Developer roles, on-site, hybrid or remote.
 
-- I was born in Santos (São Paulo/Brazil) and raised in different cities across the state.
-- Right now I live in Braga(Portugal) 🇵🇹 and I'm studying Computer Science at University of Minho.
-- I'm Brazilian and Portuguese.
-- During my free time I like to play Video games 🎮, listen to music 🎵 and watch movies/series 🍿 .
-- My favorite foods are Japanese 🍣 and homemade burgers 🍔 .
+---
 
-Bits n' Beer CEO
+### 🌐 In Production (client work)
 
-[![Youtube badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/BitsnBeer)
- 
-[![Fernando Bicalho profile views](https://u8views.com/api/v1/github/profiles/22182187/views/day-week-month-total-count.svg)](https://u8views.com/github/fmbicalho)  
+| Project | What it is | Stack |
+|---|---|---|
+| **[MIPMED](https://mipmed.com)** | E-commerce for clinical, physiotherapy, aesthetics and health supplies | Laravel · React · TypeScript |
+| **[Communitas Bracarensis](https://commbracara.pt)** | Website for Communitas Bracarensis, Braga | Node.js · React · TypeScript |
+| **[TMAD](https://tmad.pt)** | Website for TMAD, a wood and wood-products solutions company | Laravel · React · TypeScript |
 
-# 📁 My Portfolio:  [Here](https://bicalhos-portfolio.netlify.app/)  
+### 🧪 Side Projects
 
-# 💡 My Cool Projects
+| Project | What it does | Stack |
+|---|---|---|
+| **[TVBuddy](https://tvbuddy-5qxa.onrender.com/)** | Organize your Tv Shows and Movies in One Place | Laravel · PHP · React |
+| **[Barber Shop](https://barbershop2024.netlify.app)** | SPA built for a local barber shop | React · TypeScript |
+| **[Dental Clinic](https://github.com/fmbicalho/dental_clinic)** | Appointment scheduling for a dental clinic | Laravel · React · Tailwind |
+| **[Simple E-Commerce](https://github.com/fmbicalho/Simple-E-Commerce)** | Store with catalog, cart and REST API | Java · Spring Boot · React |
+| **[Bingo Game](https://github.com/fmbicalho/miniBingo/tree/main/anotherBingoGame)** | Bingo game with an API back-end | Python · FastAPI · React |
+| **[CarBuddy](https://github.com/fmbicalho/CarBuddy)** | Helps people find their next car | Node.js · Express · React |
 
-| Preview | Project Title | Description | Link |
-|---------|---------------|-------------|------|
-|<img src="https://t4.ftcdn.net/jpg/03/02/68/11/360_F_302681154_9HOWdvGLtCKpfwO5B85yESszG7MfmlUl.jpg" width="48">| Dental Clinic | This is a Web Application where a dental clinic can organize and schedule appointments. Created with PHP with Laravel and JS with React and Tailwind. | [Here](https://github.com/fmbicalho/dental_clinic) |
-|<img src="https://github.com/fmbicalho/Portfolio2.0/blob/main/public/images/barber-shop.png" width="48">| Barber Shop | This is a SPA created for a local barber shop. Created with TypeScript and React. | [Here](https://barbershop2024.netlify.app) |
-|<img src="https://github.com/fmbicalho/Portfolio2.0/blob/main/public/images/bingo.png" width="48">| Bingo Game | A bingo game created with Python + FastAPI and React. | [Here](https://github.com/fmbicalho/miniBingo/tree/main/anotherBingoGame) |
-|<img src="https://github.com/fmbicalho/Portfolio2.0/blob/main/public/images/carbuddy-app.png" width="48">| CarBuddy | In this project I decided to create a SPA to help anyone who is looking for their new car. Created with JS + NodeJS + ExpressJS + React. | [Here](https://github.com/fmbicalho/CarBuddy) |
-|<img src="https://github.com/fmbicalho/Portfolio2.0/blob/main/public/images/e-commerce.png" width="48">| Simple E-Commerce | This is a simple e-commerce. Created with Java + Spring Boot + React. | [Here](https://github.com/fmbicalho/Simple-E-Commerce) |
-|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFhwVfaZ26f6wZxlDTeJ0uc4MLfxKlzVtmeA&s" width="48">| Folder Sync Tool | This Python program synchronizes files between a source folder and a replica folder. Created with Python. | [Here](https://github.com/fmbicalho/python_folder_sync) |
-|<img src="https://www.instacart.com/assets/beetstrap/brand/2022/carrotlogo-1286c257354036d178c09e815906198eb7f012b8cdc4f6f8ec86d3e64d799a5b.png" width="48">| React Grocery Helper | This React Web Application was created to help everybody going to grocery. Created with React and Javascript. | [Here](https://github.com/fmbicalho/React-Grocery-Helper) |
-|<img src="https://github.com/fmbicalho/LibraryManager/blob/main/src/main/resources/static/images/Home.png" width="48">| Library Manager | A Web Application to organize and manage a Library. Created with Java, SpringBoot, JavaScript, MySQL, HTML and CSS. | [Here](https://github.com/fmbicalho/LibraryManager/tree/main) |
-|<img src="https://github.com/user-attachments/assets/2f9a34d4-b16b-4f74-bbe1-487094810cf1" width="48">| Fighting Game | Single-Player Fighting game created with Java and Simple Graphics Library. | [Here](https://github.com/fmbicalho/GameJam) |
-|<img src="https://cf.geekdo-images.com/tYxS-l2Z8FkehH7eIQFY9A__opengraph/img/jA27SaLhCBZqH0zmZq-fhh-9nBY=/fit-in/1200x630/filters:strip_icc()/pic332409.jpg" width="48">| Rastros - Slimetrail | C based gamed created during Algorithm Laboratory I Course at University of Minho. | [Here](https://github.com/Alef-Keuffer/uminho.la1.rastos-c) |
-|<img src="https://github.com/user-attachments/assets/bc4f9c8a-5530-4e18-a0d3-c0957676fb4a" width="48">| Server X Clients Chat | It's a server-based Java program using IO Network, developed during the CodeforAll_ Bootcamp. | [Here](https://github.com/fmbicalho/Online_Chat_in_Java.git) |
-|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaLGGazNffuwsJ1uVQIMd031guhotbnXFEow&s" width="48">| Single Page Application | With just JS, HTML and CSS. Created during the CodeforAll_ Hackathon. | [Here](https://github.com/fmbicalho/race4life) |
-|<img src="https://github.com/fmbicalho/weddingOrganizerWithNodeJS/blob/main/src/images/home.png" width="48">| Wedding Organizer | A Web Application to organize Weddings. Created NodeJS, Express, Objection, MySQL, HTML and CSS. | [Here](https://github.com/fmbicalho/weddingOrganizerWithNodeJS) |
+<details>
+<summary><b>🗂️ Even more stuff I've built</b></summary>
 
-# 💻 My Skills
+- **[Library Manager](https://github.com/fmbicalho/LibraryManager)**: Java · Spring Boot · MySQL
+- **[Wedding Organizer](https://github.com/fmbicalho/weddingOrganizerWithNodeJS)**: Node.js · Express · Objection · MySQL
+- **[Folder Sync Tool](https://github.com/fmbicalho/python_folder_sync)**: Python CLI for syncing folders
+- **[Server-Client Chat](https://github.com/fmbicalho/Online_Chat_in_Java)**: Java sockets (Code for All_)
+- **[Fighting Game](https://github.com/fmbicalho/GameJam)**: Java game built at a Game Jam
+- **[Race4Life](https://github.com/fmbicalho/race4life)**: vanilla JS SPA built at a hackathon
+- **[React Grocery Helper](https://github.com/fmbicalho/React-Grocery-Helper)**: React
+- **[Rastros – Slimetrail](https://github.com/Alef-Keuffer/uminho.la1.rastos-c)**: C (University of Minho)
 
-### Programming Languages
-![Haskell badge](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![C badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C# badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Swift badge](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+</details>
 
-### Frameworks & Libraries & ORMs
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+---
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### 🛠️ Tech Stack
 
-### Others  
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+**🔥 Main stack**<br>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fmbicalho&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
+**🧰 Also comfortable with**<br>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-I hope I can add as many items to this list as possible!
+**🎓 Academic:** C · C# · Haskell · Swift
 
-- 🔭 I’m currently working on my First Game
-- 🌱 I’m currently learning C#, Python and Java
-- 👯 I’m looking to collaborate on Video Games projects
+---
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=fmbicalho&count_private=true&show_icons=true&theme=dracula&hide=contribs&hide_border=true)
+### 🌱 Right now
+- 🚀 I'm shipping Laravel + React/TS projects for clients at DigitoSolutions.
+- 📚 I'm leveling up on testing (Pest/PHPUnit), clean architecture and CI/CD.
+- 🎮 I'm building my first game in my spare time, because why not.
+- 💬 **Hiring?** [Drop me a line](mailto:fernando_bicalho@ymail.com). I reply fast ⚡
+
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fmbicalho&theme=dracula"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fmbicalho&theme=dracula"/>
+</p>
